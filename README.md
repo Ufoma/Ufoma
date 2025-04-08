@@ -1,15 +1,25 @@
 # Hi there, I'm Ufoma with the capital U 😊! 
 U for Unflappable  😎
 
+I'm an ALX-certified Software Engineer, SAP Technology Consultant, and backend developer passionate about solving real-world problems through code—especially in finance, fraud prevention, and digital systems.
+
 ## About Me
-- 🚀 Backend Developer Enthusiast
-- 🎓 Recent graduate of Economics
-- 📚 Currently learning Software Engineering at ALX
+- 💻 Currently exploring backend systems, data handling, and API design  
+- 🛠️ Tech stack: Python, JavaScript, Flask, Bash, HTML/CSS  
+- 📚 Always learning: clean architecture, secure API development, and automation
 - 🌐 Impact-driven individual
 
-## Tech Stack
-- 💻 BASH scripting, C and python (I can still work with these!)
-- 🚀 Exploring Data Science
+### Ongoing Projects
+
+- **Simple Fraud Checker** – Flag risky account numbers using mock data  
+- **Personal Budget Tracker** – Web-based tool for managing money with local storage  
+- **Fake Loan Scam Reporter API** – A backend service for submitting fraud reports  
+- **Blog CMS Backend** – Building blog management routes (auth, posts, users)
+
+These projects help me sharpen backend development and cybersecurity skills while solving practical challenges.
+
+---
+
 
 ## Connect with Me
 - [LinkedIn]()
